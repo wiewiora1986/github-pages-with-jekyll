@@ -2,7 +2,6 @@
 ---
 title: Jestem siper
 date: 2020-09-20
-
 ---
 author: wiewiora1986
 email: your-email@domain.com
@@ -12,10 +11,9 @@ description:
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
-  baseurl:
-  
-# social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+
+ 
+ twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
